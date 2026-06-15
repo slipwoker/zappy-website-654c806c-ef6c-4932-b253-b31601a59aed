@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://kolhamehiron.zappy5.app
 גלו את כל המחירון – פלטפורמת השוואת מחירים לעסקים שקופה ואמינה. בדקו מחירי מוצרים ושירותים, קבלו החלטות חכמות והפחיתו עלויות עוד היום. היכנסו עכשיו להתחיל לחסוך!
 
 ### קטגוריות ומאפיינים
-https://example.com/categories-features
+https://kolhamehiron.zappy5.app/categories-features
 חפשו בין מגוון עצום של קטגוריות ומאפיינים עסקיים. סננו מוצרים ושירותים לפי צרכים מדויקים, השוו מחירים בשקיפות מלאה וקבלו את התמורה הטובה ביותר לעסק שלכם.
 
 ### אודות
-https://example.com/about
+https://kolhamehiron.zappy5.app/about
 כל המחירון נולד כדי להפוך את שוק המחירים העסקי לשקוף ונגיש. למדו איך אנחנו בונים אמון, מספקים נתוני מחיר אמינים ומסייעים לעסקים ולצרכנים לקבל החלטות כלכליות מושכלות.
 
 ### צור קשר
-https://example.com/contact
+https://kolhamehiron.zappy5.app/contact
 יש שאלה על השוואת מחירים או צריכים עזרה בבחירת שירות? צרו קשר עם צוות כל המחירון עוד היום, ונשמח לחסוך לכם זמן וכסף עם פתרונות תמחור מותאמים אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://kolhamehiron.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://kolhamehiron.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://kolhamehiron.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://kolhamehiron.zappy5.app/contact
+- Endpoint: https://kolhamehiron.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Price Comparison / Business Directory
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://kolhamehiron.zappy5.app/sitemap.xml
+- Robots: https://kolhamehiron.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kolhamehiron.zappy5.app/llms-full.txt
